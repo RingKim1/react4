@@ -15,6 +15,7 @@ function App() {
     |-- App.jsx
    */
 
+  // 브랜치 이름 수정 (main => ex1)
   return (
     <>
       <Router />
